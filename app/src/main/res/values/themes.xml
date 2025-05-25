@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UIniverse" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.UIniverse" parent="Base.Theme.UIniverse" >
+       <item name="android:windowSplashScreenBackground">@color/violet</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/androidify_droid_dancing</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+    </style>
+
+    
+</resources>

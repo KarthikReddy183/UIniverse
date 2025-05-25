@@ -1,0 +1,1 @@
+-> Get some more understanding on the usage of lambda's in kotlin and it's syntax

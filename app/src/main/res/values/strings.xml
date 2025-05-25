@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UIniverse</string>
+    <string name="dialogs">Dialogs</string>
+    <string name="toast">Toast</string>
+    <string name="car_toast">Car Toast</string>
+    <string name="platform_toast">Platform Toast</string>
+    <string name="material_snackbar">Material Snackbar</string>
+    <string name="system_dialog">System Dialog</string>
+    <string name="permission_dialog">Permission Dialog</string>
+    <string name="alert_dialog">Alert Dialog</string>
+</resources>
