@@ -115,7 +115,7 @@ fun SystemAlertDialog() {
         onClick = {
             mainViewModel.systemAlertDialog(
                 context,
-                "com.accenture.testapplication"
+                "com.android.car.settings"
             )
         }, modifier = Modifier
             .padding(end = 12.dp)
